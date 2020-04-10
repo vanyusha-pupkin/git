@@ -1,5 +1,5 @@
 # git
 
 user 2
-user 1 change it line
+user 2 add it line 
 user 1
